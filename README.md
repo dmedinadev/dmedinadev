@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmedinadev
-- 👀 I’m interested in learn HTML5, CSS3 and JavaScript.
-- 🌱 I’m currently learning learn Python for DataScience, HTML5, CSS3 and JavaScript.
+- 👀 I’m interested in learn DevOps and IaC.
+- 🌱 I’m currently learning learn tools DevOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: djmedinadev@gmail.com
 
